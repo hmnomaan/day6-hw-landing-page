@@ -133,7 +133,7 @@ nav ul li a {
   display: grid;
   grid-template-areas: "card-1 card-1 card-1 card-1 card-2 card-2 card-2 card-2 card-3 card-3 card-3 card-3";
   grid-gap: 30px;
-  margin-top: 125px;
+  margin-top: 115px;
   margin-left: 120px;
   display: flex;
   align-items: center;
@@ -194,6 +194,3 @@ nav ul li a {
   text-align: center;
   justify-content: center;
 }
-/* .footer-wrapper {
-  margin-top: 40px;
-} */
