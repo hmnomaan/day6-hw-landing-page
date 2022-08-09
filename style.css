@@ -197,6 +197,12 @@ nav ul li a {
 }
 .card-content-flex {
 }
+.card-title-text {
+  font-size: 50px;
+}
+.card-text {
+  color: black;
+}
 .card-3 {
   /* grid-area: card-3; */
   display: flex;
